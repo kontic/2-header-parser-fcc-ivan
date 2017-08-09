@@ -1,0 +1,17 @@
+{
+  "name": "2-header-parser-fcc-ivan",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kontic/2-header-parser-fcc-ivan.git"
+  }
+}
